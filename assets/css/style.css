@@ -294,7 +294,7 @@ body {
     overflow-y: auto;
     transition: 0.3s;
     border: 2px solid rgba(255, 255, 255, 0.2);
-    background: #111111 url("../img/coding.png") top right no-repeat;
+    background: #111111 url("../img/code.jpg") top right no-repeat;
   }
   
   .navbar-mobile li {
